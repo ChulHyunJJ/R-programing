@@ -11,21 +11,21 @@ R 데이터 분석에 관한 학습 자료입니다.
 ## 파일 내용
 - 수업 자료(R_Practice)
 1. BasicR
-1. Helloworld.R
-2. Vector.R
-3. Matrix.R
-4. Factor_DataFrame.R
-5. DataFrame_List.R
+  - Helloworld.R
+  - Vector.R
+  - Matrix.R
+  - Factor_DataFrame.R
+  - DataFrame_List.R
 2. DataManipulation
-1.DataCleang.R
-2.DataManipulation.R
-3.PracticalUse.R
-4. DataPlot.R
-5. Subject.R
-6. DataCleang.R
+  - DataCleang.R
+  - DataManipulation.R
+  - PracticalUse.R
+  - DataPlot.R
+  - Subject.R
+  - DataCleang.R
 3. DescriptiveStat
-1. descriptive.R
-2. Modeling.R
+  - descriptive.R
+  - Modeling.R
 
 - 과제
 1. [과제] R 기초.docx
