@@ -5,6 +5,8 @@ R programing with Korean description
 
 R 데이터 분석에 관한 학습 자료입니다.
 
+모든 교육과정의 저작권은 [SuanLab](http://suanlab.com) 에 있습니다.
+
 ## 환경
 - Google Colab
 
